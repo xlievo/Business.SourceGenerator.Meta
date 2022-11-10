@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs
+/Business.SourceGenerator.Meta/.vs
+/Business.SourceGenerator.Meta/Properties
+/Business.SourceGenerator.Meta/bin
+/Business.SourceGenerator.Meta/obj
+*.user
